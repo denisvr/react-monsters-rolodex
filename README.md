@@ -1,6 +1,6 @@
 # react-monsters-rolodex
 
-This is a project with goal to understant better concepts about React JS, based on Udemy course, info:
+This is a project with goal to better understant of concepts about React JS, based on Udemy course, info:
 
 Title: Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) <br/>
 Instructor: Andrei Neagoie and Yihua Zhang <br/>
