@@ -5,6 +5,7 @@ This is a project with goal to better understant of concepts about React JS, bas
 Title: Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) <br/>
 Instructor: Andrei Neagoie and Yihua Zhang <br/>
 Hours: 40 <br/>
+Link: https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 Objectives of this course
 
